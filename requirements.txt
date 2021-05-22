@@ -1,0 +1,8 @@
+pandas
+geopy
+gmaps
+matplotlib
+pymannkendall
+scipy
+math
+IPython
